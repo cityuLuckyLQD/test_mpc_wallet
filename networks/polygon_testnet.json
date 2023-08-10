@@ -1,0 +1,38 @@
+[
+  {
+    "contractName": "DkimZK",
+    "address": "0x03Ed1c04baBaC1dBb20DA99cEd71faDF25ef2853"
+  },
+  {
+    "contractName": "DkimKeys",
+    "address": "0xeC5904c54779D0786F539095DeF6D6320F385cE0"
+  },
+  {
+    "contractName": "OpenID",
+    "address": "0xF6FaD55A2CaB9f74E5F465680a7B7fD0A00976E3"
+  },
+  {
+    "contractName": "ModuleWhiteList",
+    "address": "0x28101Ce1aDFf9a017C818e9d522992bE6D490048"
+  },
+  {
+    "contractName": "ModuleMain",
+    "address": "0x06AEc8fcCb20DafA0E83bE785A4Fedb8A0d4aA31"
+  },
+  {
+    "contractName": "ModuleMainUpgradable",
+    "address": "0xD018Ba18004BE9e7dCfBdcCDE12A92C413812C2B"
+  },
+  {
+    "contractName": "ModuleGuest",
+    "address": "0x176C1CD760768E3aaD920A42d3f68E91428A86Ed"
+  },
+  {
+    "contractName": "GasEstimator",
+    "address": "0x9E14b7098B2BBE2D24D665Fc4E8f5E7B6612d44D"
+  },
+  {
+    "contractName": "FeeEstimator",
+    "address": "0xfd29209EA318F3CAa829156b6216d922c3d63AE6"
+  }
+]
